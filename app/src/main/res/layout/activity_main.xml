@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/background_Image_View"
+        android:layout_width="1051dp"
+        android:layout_height="1867dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/wood" />
+
+    <ImageView
+        android:id="@+id/doll_imageView"
+        android:layout_width="match_parent"
+        android:layout_height="517dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/doll" />
+
+    <TextView
+        android:id="@+id/headline_textView"
+        android:layout_width="match_parent"
+        android:layout_height="151dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="75dp"
+        android:fontFamily="@font/almendra_sc"
+        android:text="Recipe Book"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/doll_imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginStart="70dp"
+        android:layout_marginEnd="70dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/capsule_background"
+        android:orientation="vertical"
+
+        android:text="Start"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        app:backgroundTint="@color/black"
+        app:icon="@drawable/capsule_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.409"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DE85ED"
+    tools:context=".Chocolate_Cake_MainActivity">
+
+    <TextView
+        android:id="@+id/chocolate_headlie_textView"
+        android:layout_width="377dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="133dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="94dp"
+        android:fontFamily="@font/almendra_sc"
+        android:text="@string/recipe_name"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/chocolate_imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.595"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/chocolate_imageView"
+        android:layout_width="411dp"
+        android:layout_height="277dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="1dp"
+        app:layout_constraintBottom_toTopOf="@+id/chocolate_igredientName_textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/chocolate_cake" />
+
+    <TextView
+        android:id="@+id/chocolate_igredientName_textView"
+        android:layout_width="133dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="340dp"
+        android:fontFamily="@font/almendra_sc"
+        android:text="@string/ingredients_name"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/chocolate_ingredients_ScrollView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.104"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/chocolate_igredientName_textView7"
+        android:layout_width="133dp"
+        android:layout_height="30dp"
+        android:fontFamily="@font/almendra_sc"
+        android:text="@string/instruction_name"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/chocolate_instructions_scrollView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.104"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.98" />
+
+    <ScrollView
+        android:id="@+id/chocolate_instructions_scrollView"
+        android:layout_width="365dp"
+        android:layout_height="196dp"
+        android:layout_marginTop="468dp"
+        android:layout_marginBottom="18dp"
+        android:background="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.413"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+
+        <TextView
+            android:id="@+id/chocolate_instructions_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/veg_burger_recipe"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/chocolate_ingredients_ScrollView"
+        android:layout_width="365dp"
+        android:layout_height="96dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="368dp"
+        android:layout_marginEnd="1dp"
+        app:layout_constraintBottom_toTopOf="@+id/chocolate_igredientName_textView7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.414"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.03">
+
+
+        <TextView
+            android:id="@+id/chocolate_ingredients_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:text="@string/chocolate_cake_ingredients"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

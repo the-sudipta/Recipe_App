@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">Recipe_App</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="todo">TODO</string>
+    <string name="ingredients_name">Ingredients</string>
+    <string name="instruction_name">Instructions</string>
+    <string name="veg_burger_ingredients">
+        1 cup cooked brown rice* \n
+        1 cup raw walnuts (or sub bread crumbs) \n
+        1/2 Tbsp avocado oil (plus more for cooking) \n
+        1/2 medium white onion (finely diced // 1/2 onion yields    ~3/4 cup) \n
+        1 Tbsp each chili powder, cumin powder, and smoked paprika \n
+        1/2 tsp each sea salt and black pepper (plus more for coating burgers) \n
+        1 Tbsp coconut sugar (or sub organic brown or muscovado sugar) \n
+        1 1/2 cups cooked black beans* (well rinsed, drained and patted dry) \n
+        1/3 cup panko bread crumbs (if gluten-free, use gluten-free bread crumbs) \n
+        3-4 Tbsp vegan BBQ sauce \n
+    </string>
+    <string name="veg_burger_recipe">
+        If your brown rice isn’t cooked yet, start there by following this method for the best results. 
+        Otherwise, move onto the next step.
+        Heat skillet over medium heat. \n\n
+        Once hot, add raw walnuts and toast for 5-7 minutes, stirring frequently, until fragrant and golden brown. 
+        Let cool and move onto the next step. \n\n
+        In the meantime, heat the same skillet over medium heat. 
+        Once hot, add oil and onion. Season with a bit of salt and pepper and sauté for 3-4 minutes, or until onion is fragrant, soft, and translucent. 
+        Remove from heat and set aside. \n\n
+        Once walnuts are cooled, add to blender or food processor with chili powder, cumin, smoked paprika, salt, pepper and coconut sugar and blend until a fine meal (see photo) is achieved. 
+        Set aside. \n\n
+        To a large mixing bowl, add drained, dried black beans and mash well with a fork, leaving only a few whole beans (see photo).
+        Next add cooked rice, spice-walnut mixture, sautéed onion, panko bread crumbs, BBQ sauce, and mix thoroughly with a wooden spoon for 1-2 minutes, or until a moldable dough forms. 
+        If dry, add extra 1-2 Tbsp (amount as original recipe is written // adjust if altering batch size) BBQ sauce. 
+        If too wet, add more panko bread crumbs. Taste and adjust seasonings as needed. \n\n
+        For larger burgers, divide into 5 patties (1/2 cup in size // amount as original recipe is written), or form 10 smaller burgers (1/4 cup in size // amount as original recipe is written). 
+        To help form the patties, line your 1/2 or 1/4 measuring cup with plastic wrap and pack with burger mixture.  \n\n
+        Press down to pack firmly, then lift out by the plastic wrap’s edge, and slightly flatten with hands to form a 3/4-inch thick patty. 
+        Set on a baking sheet or plate for grilling. \n\n
+        If grilling, heat the grill at this time and brush the grill surface with oil to ease cooking. 
+        Otherwise, heat the same skillet you used earlier to medium heat. \n\n
+        Once skillet is hot, add just enough oil to lightly coat the bottom of your skillet, then add your burgers – only as many as will comfortably fit in the pan. Otherwise, add burgers to the grill and close lid.
+        Cook for 3-4 minutes or until well browned on the underside, then flip gently. 
+        They aren’t as firm as meat burgers, but will definitely hold their shape. Reduce heat if cooking/browning too quickly. 
+        Cook for 3-4 minutes on other side. \n\n
+        Remove burgers from heat to let cool slightly, and prepare any other toppings/sides at this time (such as grilling/toasting your buns).
+        Serve burgers as is, or on toasted buns with desired toppings. 
+        Leftovers keep in the refrigerator for 2-3 days.  \n\n
+
+    </string>
+    <string name="egg_roll_ingredients">
+        1½ cup All-purpose flour \n
+        1 teaspoon Sugar \n
+        ½ teaspoon Salt \n
+        1 tablespoon Oil \n
+        100-110 ml warm water \n
+        5 Eggs
+        1 large red Onion, thin sliced \n
+        1 medium Cucumber, julienne cut \n
+        2-3 green Chillies, thin sliced \n
+        1 Lemon \n
+        5 tablespoons Tomato Ketchup \n
+        1 ½ teaspoons Chaat masala (2 pinches for each Egg roll) \n
+        1 teaspoon black Salt (1 big pinch for each Egg roll) \n
+        5 pinches of Salt (1 pinch to mix with each egg) \n
+        Oil for cooking \n
+    </string>
+    <string name="egg_roll_recipe">
+        Measure 1 and ½ cups of all-purpose flour for the dough and add it in a large mixing bowl. \n\n
+        Add ½ teaspoon salt, 1 teaspoon sugar into the bowl and mix all the dry ingredients nicely with the help of a spoon.
+        Add 1 tablespoon oil into the mixing bowl. \n\n
+        Mix the oil nicely and evenly with the help of your hand.
+        Add the required amount of warm water in small portions slowly into the mixture and mix it nicely to make a soft dough. 
+        For me, it took exactly 110 ml of water. \n\n
+        Apply ½ teaspoon of oil over the dough and cover it with a wet kitchen towel or muslin cloth and let it rest for half an hour.
+        On the other hand, cut the onions into thin slices and add ½ of a Lemon juice into it. Mix the juice nicely with hand and separate the layers of onions. 
+        Keep it aside. \n\n
+        Cut the cucumbers into julienne and slice the green chillies and keep them aside.
+        After 30 minutes, knead the dough again and divide it into 5 equal portions. Make 5 flat round dough balls for the paratha.
+        Take one ball on a rolling board to make paratha but make sure to cover rest of the dough balls with wet cloth.
+        Roll the ball to a thin paratha with the help of a rolling pin. Don’t need to bother about the shape for this time.
+        Start from the edge of the thin paratha to make small pleats by folding repeatedly. Then swirl the long thick folded paratha to a round disk like pinwheel pizza.
+        Repeat the same process with the remaining flat dough balls. Cover them with wet cloth and allow the disks to rest for another 15 minutes.
+        Take one swirl disk to roll lachha paratha and cover rest of the dough disks. \n\n
+        Put a heavy bottom pan on medium flame and then roll the disk to a thin paratha. No need to apply oil or flour to roll the paratha.
+        Drizzle 1 teaspoon of oil into the pan and place the rolled paratha on it. Pour 1 more teaspoon of oil over the paratha and spread it.
+        Cook the paratha over medium flame for 1-2 minutes. Cook it till golden brown spots occur. Press the edges of the paratha for extra crisp. Flip the paratha and cook it again for 1-2 minutes.
+        In a bowl, break an egg and add a pinch of salt into it. Whisk the mixture nicely and pour it over the paratha. Spread the mixture with a spoon.
+        Add 1 teaspoon oil on the edges of the paratha and flip it quickly but carefully. \n\n
+        Cook it over medium flame for another minute until the egg gets fried. Add more oil during the time of frying egg if required.
+        Transfer the paratha on a flat surface facing the egg side on the top. \n\n
+        Add sliced onion (Step 7) on one side of the paratha but leave a gap for wrapping the paratha.
+        Add cucumber and green chillies for the filling of the egg roll.
+        Squeeze some drops of lemon juice over the salad. \n\n
+        Add 1 tablespoon of tomato ketchup over the salad like a thick line.
+        Sprinkle 2 pinches of chaat masala and a pinch of black salt over the salad.
+        Roll the egg paratha carefully but tightly. \n\n
+        Wrap the lower half of the wrap with a piece of paper and tuck the extra paper at the bottom.
+        Repeat the whole process with the remaining disks to prepare the egg roll and serve immediately. \n\n
+    </string>
+    <string name="bread_pakora_ingredients">
+        4 slices Bread \n
+        2 Boiled Ptatoes(approx.200gm) \n
+        3 tablespoon Oil \n
+        4 medium size Chopped Onion \n
+        2 medium size Chopped Tomato \n
+        2 medium size Chopped Green Chili \n
+        1/2 tablespoon Cumin Powder \n
+        1/2 tablespoon Red Chili Powder \n
+        2 pinches Garam Masala Powder \n
+        A pinch of Baking Soda \n
+        Water(1/2 cup + 3 tablespoons) or as needed \n
+        1 cup Gram Flour (besan/chickpea flour) \n
+        1 tablespoon Rice Flour(optional) \n
+        Tomato Ketchup \n
+        Salt to taste \n
+    </string>
+    <string name="bread_pakora_recipe">
+        Step 1 Make the mashed potato filling
+        For making these yummy bread pakoras, make the potato filling first.
+        For the same, wash the potatoes, then put the potatoes in a pressure cooker and add water in it.
+        Boil the potatoes till 3-4 whistles and mash them when they are warm, and add chopped coriander leaves, green chilies, 1 teaspoon red chili powder, dry mango powder (amchur) and salt.
+        Mix them well. \n\n
+        Step 2 Prepare the batter
+        Now prepare the besan batter.
+        Take a large bowl, and add besan, ajwain, red chili powder, garam masala powder, asafoetida and salt.
+        Drizzle a little water and make a smooth batter.
+        Check the seasoning and add few drops of oil in the batter and keep it aside. \n\n
+        Step 3 Assemble the bread slices
+        Now assemble the bread pakora by slicing the bread into triangular slices.
+        Apply green chutney (mint and coriander chutney) on one side of triangular bread and apply mashed potato mixture evenly on the bread.
+        Cover this slice with another triangular slice.
+        Next dip the bread into the batter. \n\n
+        Step 4 Deep fry the pakoras and serve hot
+        Take a kadhai over medium flame and add some oil.
+        Once the oil is hot enough, leave the bread slices from sides.
+        Deep fry these dipped bread slices in hot oil on medium flame till crisp and golden brown.
+        Enjoy these freshly prepared bread pakoras with sauce along with tea or coffee. \n\n
+    </string>
+    <string name="egg_curry_ingredients">
+        5 Hard Boiled Eggs peeled \n
+        1 tablespoon Coconut Oil \n
+        1 teaspoon Mustard seeds \n
+        1 Cinnamon small stick \n
+        3 Cardamom pods \n
+        5 Peppercorns lightly smashed \n
+        2 – 3 Green Chillies slit lengthwise \n
+        1 teaspoon Ginger finely chopped or ginger paste \n
+        7 Garlic cloves smashed and roughly chopped or garlic paste \n
+        2 Onions finely chopped (medium) \n
+        3 Tomatoes finely chopped (large) \n
+        1/2 teaspoon Turmeric Powder \n
+        1 teaspoon Coriander Powder \n
+        1/2 teaspoon Chili Powder Red \n
+        1/4 cup Tamarind Water See Note 2 \n
+        1 cup Thin Coconut Milk See Note 3 \n
+        1/2 cup Thick Coconut Milk \n
+        8 – 10 Curry Leaves \n
+        Salt to taste \n
+    </string>
+    <string name="egg_cury_recipe">
+        In a large pan, heat coconut oil and add mustard seeds, cinnamon, cardamom, peppercorns and green chilies.
+        Once everything starts spluttering, add ginger, garlic and onions. \n\n
+        Cook till the onions turn soft and translucent and add tomatoes, turmeric powder, coriander powder, chili powder and salt.
+        Let the tomatoes cook till they are pulpy and add tamarind water and thin coconut milk.
+        Stir and bring this to a boil. Simmer till the gravy reduces slightly and becomes thicker.
+        This will take about 5. At this point, add some water if you need to adjust the consistency.
+        Adjust seasoning, add curry leaves and pour in the thick coconut milk. Stir a few times, without letting it come to a boil and switch off the flame.
+        Drop the eggs in the curry, and cover and let it sit for five minutes before serving. \n\n
+    </string>
+    <string name="chocolate_cake_ingredients">
+        butter and flour for coating and dusting the cake pan \n
+        3 cups all-purpose flour \n
+        3 cups granulated sugar \n
+        1 1/2 cups unsweetened cocoa powder \n
+        1 tablespoon baking soda \n
+        1 1/2 teaspoons baking powder \n
+        1 1/2 teaspoons salt \n
+        4 large eggs \n
+        1 1/2 cups buttermilk \n
+        1 1/2 cups warm water \n
+        1/2 cup vegetable oil \n
+        2 teaspoons vanilla extract \n
+    </string>
+    <string name="chocolate_cake_recipe">
+        Preheat oven to 350 degrees Fahrenheit.
+        Butter three 9-inch cake rounds. Dust with flour and tap out the excess. \n\n
+        Mix together flour, sugar, cocoa, baking soda, baking powder, and salt in a stand mixer using a low speed until combined.
+        Add eggs, buttermilk, warm water, oil, and vanilla. Beat on a medium speed until smooth. This should take just a couple of minutes.
+        Divide batter among the three pans. I found that it took just over 3 cups of the batter to divide it evenly. \n\n
+        Bake for 30-35 minutes in a 350 degree oven until a toothpick inserted into the center comes out clean.
+        Cool on wire racks for 15 minutes and then turn out the cakes onto the racks and allow to cool completely.
+        Frost with your favorite frosting and enjoy! \n\n
+    </string>
+</resources>
